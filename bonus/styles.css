@@ -1,0 +1,89 @@
+#one {
+	width: 100%;
+	height: 85px;
+	background-color:  #3B5998;
+}
+#facebook{
+	width:55%;
+	font-size: 42px;
+	font-family:Segoe UI;
+	color:white;
+	padding-left: 280px;
+	font-weight: bold;
+}
+#total{
+	height:100%;
+	width:100%; 
+	position: absolute; 
+	top: 0; 
+	bottom: 0; 
+	left: 0; 
+	right: 0;
+}
+#txtlogin{
+	border-style: ridge;
+	border-color: 	#999999;
+	background-color: #3B5998;
+	color: white;
+	font-weight: bold;
+}
+#two{
+	font-size: 22px;
+	color: #001a66;
+	font-weight: bold;
+	padding-top: 40px;
+	padding-right: 150px;
+	padding-left: 300px;
+}
+#three{
+	padding-left: 300px;
+	padding-top: 5px;
+	vertical-align: top;
+}
+#st1{
+	height: 35px;
+	border-radius: 5px;
+	width: 200px; 
+}
+#st2{
+	height: 35px;
+	border-radius: 5px;
+	margin-right: 300px;
+	width: 200px;
+}
+.st3{
+	height: 35px;
+	border-radius: 5px;
+	width: 410px;
+}
+#day{
+	width: 60px;
+	height: 30px;
+	margin-top: 0px;
+	margin-left: 880px;
+}
+#month{
+	width: 75px;
+	height: 30px;
+	margin-top: 0px;
+	margin-left: 945px;
+}
+#year{
+	width: 65px;
+	height: 30px;
+	margin-top: 0px;
+	margin-left: 1020px;
+}
+#sel{
+	margin-left: 880px;
+	font-size: 20px;
+}
+#submit{
+	margin-left: 880px;
+	border-radius: 5px;
+	background-color: #008000;
+	width: 190px;
+	height: 40px;
+	color:white;
+	font-size: 20px;
+}
