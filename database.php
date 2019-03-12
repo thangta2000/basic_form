@@ -1,0 +1,13 @@
+<?php
+	$hostname="localhost";
+	$port="3306";
+	$databaseName="abc12";
+	$databaseUsername="root";
+	$databasePassword="";
+	$connection=mysqli_connect(
+		$hostname,
+		$databaseUsername,
+		$databasePassword,
+		$databaseName
+	);	
+?>
